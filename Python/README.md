@@ -14,6 +14,8 @@ All work is done in **Jupyter Notebooks using Python**, with an emphasis on clar
 ## 📒 Notebooks Overview
 
 ###  `volunteer_monthly_hour_log.ipynb`
+<img width="911" height="672" alt="image" src="https://github.com/user-attachments/assets/0d795e5d-5a4d-4d5b-b606-41afd96c074f" />
+
 **What it does:**  
 Analyzes volunteer hour logs to understand participation and workload distribution over time.
 
@@ -31,6 +33,8 @@ Analyzes volunteer hour logs to understand participation and workload distributi
 ---
 
 ### `volunteer_monthly_progress_report.ipynb`
+<img width="1251" height="638" alt="image" src="https://github.com/user-attachments/assets/b8eba3bf-9d77-4bd5-8990-b6c493291b89" />
+
 **What it does:**  
 Tracks volunteer progress across the month and evaluates how close volunteers are to expected or target hours.
 
@@ -48,6 +52,8 @@ Tracks volunteer progress across the month and evaluates how close volunteers ar
 ---
 
 ###  `weekly_1:1_coaching_report.ipynb`
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/3b6948f7-19cd-44e8-bf20-9e3bab3f7e3b" />
+
 **What it does:**  
 Analyzes weekly one-on-one coaching or mentoring sessions to understand consistency and engagement.
 
@@ -66,6 +72,8 @@ Analyzes weekly one-on-one coaching or mentoring sessions to understand consiste
 ---
 
 ### `weekly_signup_report.ipynb`
+<img width="405" height="358" alt="image" src="https://github.com/user-attachments/assets/f9e270b3-064e-4144-9e49-e53aa4feb97d" />
+
 **What it does:**  
 Analyzes weekly sign-up data to track growth and engagement patterns.
 
