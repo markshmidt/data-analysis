@@ -1,5 +1,7 @@
 Python/.venv/
 Python/venv/
+sqls/.venv/
+sqls/venv/
 Python/myproject-venv/
 __pycache__/
 *.pyc
