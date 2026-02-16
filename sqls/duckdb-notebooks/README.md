@@ -1,4 +1,4 @@
-# 🗄️ SQL Analytics Projects
+# 🗄️ SQL Duck DB projects
 
 This folder contains SQL-based data analysis projects focused on transforming raw operational data into structured monthly reports.
 
